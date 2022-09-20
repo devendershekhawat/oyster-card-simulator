@@ -3,7 +3,7 @@
 Please install following tools
 
 - nodejs
-- yarn using
+- yarn 
 
 1. run  `yarn install` in root directory
 2. run `yarn start`
